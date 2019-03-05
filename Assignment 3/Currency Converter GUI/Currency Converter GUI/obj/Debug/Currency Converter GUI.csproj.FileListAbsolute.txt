@@ -1,0 +1,18 @@
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\bin\Debug\Currency Converter GUI.exe.config
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\bin\Debug\Currency Converter GUI.exe
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\bin\Debug\Currency Converter GUI.pdb
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\obj\Debug\Currency Converter GUI.csprojResolveAssemblyReference.cache
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\obj\Debug\Currency_Converter_GUI.Form1.resources
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\obj\Debug\Currency_Converter_GUI.Properties.Resources.resources
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\obj\Debug\Currency Converter GUI.csproj.GenerateResource.Cache
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\obj\Debug\Currency Converter GUI.exe
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\obj\Debug\Currency Converter GUI.pdb
+C:\Users\johnlayson\Documents\Visual Studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\bin\Debug\Currency Converter GUI.exe.config
+C:\Users\johnlayson\Documents\Visual Studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\obj\Debug\Currency Converter GUI.exe
+C:\Users\johnlayson\Documents\Visual Studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\obj\Debug\Currency Converter GUI.pdb
+C:\Users\johnlayson\Documents\Visual Studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\bin\Debug\Currency Converter GUI.exe
+C:\Users\johnlayson\Documents\Visual Studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\bin\Debug\Currency Converter GUI.pdb
+C:\Users\johnlayson\Documents\Visual Studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\obj\Debug\Currency Converter GUI.csprojResolveAssemblyReference.cache
+C:\Users\johnlayson\Documents\Visual Studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\obj\Debug\Currency_Converter_GUI.Currency.resources
+C:\Users\johnlayson\Documents\Visual Studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\obj\Debug\Currency_Converter_GUI.Properties.Resources.resources
+C:\Users\johnlayson\Documents\Visual Studio 2015\Projects\Currency Converter GUI\Currency Converter GUI\obj\Debug\Currency Converter GUI.csproj.GenerateResource.Cache

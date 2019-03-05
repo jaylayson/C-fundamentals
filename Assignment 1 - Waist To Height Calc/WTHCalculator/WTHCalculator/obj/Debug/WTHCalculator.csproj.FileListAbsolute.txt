@@ -1,0 +1,6 @@
+c:\users\johnlayson\documents\visual studio 2015\Projects\WTHCalculator\WTHCalculator\bin\Debug\WTHCalculator.exe.config
+c:\users\johnlayson\documents\visual studio 2015\Projects\WTHCalculator\WTHCalculator\bin\Debug\WTHCalculator.exe
+c:\users\johnlayson\documents\visual studio 2015\Projects\WTHCalculator\WTHCalculator\bin\Debug\WTHCalculator.pdb
+c:\users\johnlayson\documents\visual studio 2015\Projects\WTHCalculator\WTHCalculator\obj\Debug\WTHCalculator.csprojResolveAssemblyReference.cache
+c:\users\johnlayson\documents\visual studio 2015\Projects\WTHCalculator\WTHCalculator\obj\Debug\WTHCalculator.exe
+c:\users\johnlayson\documents\visual studio 2015\Projects\WTHCalculator\WTHCalculator\obj\Debug\WTHCalculator.pdb
